@@ -11,7 +11,7 @@
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysegencaliogluu&theme=dark&layout=compact&langs_count=1"  alt="Ayse's GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysegencaliogluu&theme=dark&layout=compact&langs_count=2"  alt="Ayse's GitHub stats" />
 </p>
 
 <p align="center">
